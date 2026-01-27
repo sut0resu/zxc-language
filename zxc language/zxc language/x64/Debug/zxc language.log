@@ -1,8 +1,0 @@
-﻿  zxc language.cpp
-C:\Users\sutor\проекты\zxc language\zxc language\zxc language.cpp(617,50): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\Users\sutor\проекты\zxc language\zxc language\zxc language.cpp(65,1): warning C4715: is_oper: значение возвращается не при всех путях выполнения
-C:\Users\sutor\проекты\zxc language\zxc language\zxc language.cpp(185,1): warning C4715: get_index_last_var_name: значение возвращается не при всех путях выполнения
-C:\Users\sutor\проекты\zxc language\zxc language\zxc language.cpp(174,1): warning C4715: get_index_first_name_var: значение возвращается не при всех путях выполнения
-C:\Users\sutor\проекты\zxc language\zxc language\zxc language.cpp(162,1): warning C4715: get_index_last: значение возвращается не при всех путях выполнения
-C:\Users\sutor\проекты\zxc language\zxc language\zxc language.cpp(145,1): warning C4715: get_index_first: значение возвращается не при всех путях выполнения
-  zxc language.vcxproj -> C:\Users\sutor\проекты\zxc language\x64\Debug\zxc language.exe
